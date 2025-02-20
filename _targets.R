@@ -49,5 +49,15 @@ list(
 	         y = ""
 	)
     }
+  ),
+  tar_target(
+       name = save_main_plot,
+    command = ggsave(
+          plot = main_plot,
+      filename = "plot/ultra-trail-running.png",
+         width = 10,
+        height = 8,
+           dpi = "retina"
+    )
   )
 )

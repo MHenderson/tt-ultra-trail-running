@@ -1,5 +1,6 @@
 name|type|data|command|depend|seed|path|time|size|bytes|format|repository|iteration|parent|children|seconds|warnings|error
 ultra_rankings|stem|a9b09c83782af5fb|1dc0050c90df123b|2c530c1562a7fbd1|-1793344122||t20139.3506843916s|s2255980b|2255980|rds|local|vector|||3.78||
 top_nationalities|stem|eac85a807111231e|d5799567682b3275|0978b6f88882ab99|-1753618521||t20139.3549183861s|s114b|114|rds|local|vector|||0.043||
-.Random.seed|object|51b308a6653f607c
 main_plot|stem|9f18f31ef74d4aaa|a6a25eed9058f601|1d52c716213110a7|-973856271||t20139.3581554107s|s8242901b|8242901|rds|local|vector|||0.216|The size argument of element_line is deprecated as of ggplot2 3.4.0.ℹ Please use the linewidth argument instead.|
+.Random.seed|object|1ea6f30f5fdd2802
+save_main_plot|stem|68c6ed8d6233a380|a611dc6b6d0f1a62|0a26ecfca3cdbb59|-7430601||t20139.3607611255s|s80b|80|rds|local|vector|||2.547||
