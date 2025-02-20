@@ -1,6 +1,4 @@
+# tt-ultra-trail-running
 
-<!-- README.md is generated from README.Rmd. Please edit that file -->
+![](plot/ultra-trail-running.png)
 
-# ultra-trail-running
-
-![](ultra-trail-running.png)
